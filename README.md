@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
- <meta charset="utf-8">
- <meta name="viewport" content="width=device-width, initial-scale=1">
- <style type="text/css">
-  * {
-   margin: 0;
-   padding: 0;
-  }
-  table {
-   margin: 60px auto;
-  }
-  td {
-   padding: 5px;
-  }
-  td:first-child {
-   text-align: center;
-  }
- </style>
+
  <title></title>
 </head>
 <body>
